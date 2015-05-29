@@ -6,8 +6,6 @@ Scripts and tools for working with Lego Mindstorms EV3 Controllers using ev3dev 
 
 ### CONSTANTS
 
-#### port
-
 |  CONSTANT         | VALUE     |
 | ----------------- | --------- |
 | port.INPUT_AUTO   | undefined |
@@ -15,9 +13,11 @@ Scripts and tools for working with Lego Mindstorms EV3 Controllers using ev3dev 
 | port.INPUT_2      | 'in2'     |
 | port.INPUT_3      | 'in3'     |
 | port.INPUT_4      | 'in4'     |
+
+|  CONSTANT         | VALUE     |
+| ----------------- | --------- |
 | port.OUTPUT_AUTO  | undefined |
 | port.OUTPUT_A     | 'outA'    |
 | port.OUTPUT_B     | 'outB'    |
 | port.OUTPUT_C     | 'outC'    |
 | port.OUTPUT_D     | 'outD'    |
-| ----------------- | --------- |
